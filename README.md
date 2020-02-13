@@ -24,5 +24,6 @@
 - [ ] Categorical Data Analysis  (범주형 자료 분석)
 - [ ] Spatio Data Analysis       (공간 자료 분석)
 - [ ] Survival Data Analysis     (생존 자료 분석)
-- [ ] Time Series Data Analysis  (시계열 자료 분석)<br>
+- [ ] Time Series Data Analysis  (시계열 자료 분석)
+
 세부 목차는 각 챕터에 적어두었습니다.

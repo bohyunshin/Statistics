@@ -13,4 +13,5 @@
  - Gaussian Mixture Ver. 2
  - Ideal Point Estimation (정치인들의 정치 성향 분석)
 - [ ] Imputation
- - MICE
+ - MICE (Multiple Imputation by Chained Equation)
+ - FHDI (Fractional Hot Deck Imputation)

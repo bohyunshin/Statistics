@@ -18,12 +18,14 @@
 
 ## 2. Contetns
 서론이 길었습니다. 해당 repository에서는 여러 자료 형태에 대해서 통계적으로 접근하는 방법을 정리합니다. 각 자료 형태에 대해서 많이 쓰이는 모델과 이에 대한 설명, 그리고 데이터를 가져와서 분석도 해볼 예정입니다. 순서는 아래와 같습니다.<br>
-- [ ] Survey Sampling            (표본 조사론)
+
 - [X] Missing Data Analysis      (불완전 자료 분석) (2020.1 ~ )
-- [ ] Longitudinal Data Analysis (경시적 자료 분석)
+- [ ] Longitudinal Data Analysis (경시적 자료 분석) (2020.3 ~ )
+- [ ] Generalized Linear Mixed Models (일반화 선형 혼합 모형)
 - [ ] Categorical Data Analysis  (범주형 자료 분석)
 - [ ] Spatio Data Analysis       (공간 자료 분석)
 - [ ] Survival Data Analysis     (생존 자료 분석)
 - [ ] Time Series Data Analysis  (시계열 자료 분석)
+- [ ] Survey Sampling            (표본 조사론)
 
 세부 목차는 각 챕터에 적어두었습니다.

@@ -25,5 +25,5 @@
 
 순서는 아래와 같습니다.
 
-- [ ] Covariance Pattern Model (2.27 완료)
+- [X] Covariance Pattern Model (2.27 완료)
 - [ ] Random Coefficient Model

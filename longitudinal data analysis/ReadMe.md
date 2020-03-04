@@ -36,12 +36,13 @@
   * 모형이 직관적으로 reasonable하고 측정 시점이 모든 subject에게서 동일할 필요가 없다.
   * correlation 구조가 복잡하며 이해하기 어렵다.
   * 사용 R 패키지
-    * 찾는 중...
-
+    * continuous: lme4 package
+    * binary: lme4 package
+    * count: lme4 package
 ### 2. Contents
 
 순서는 아래와 같습니다.
 
-- [ ] Random effec Model
+- [ ] Random effect Model
 - [X] Covariance Pattern Model (2.27 완료)
 - [ ] Random Coefficient Model

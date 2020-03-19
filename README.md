@@ -23,7 +23,7 @@
 - [ ] Longitudinal Data Analysis (경시적 자료 분석) (2020.3 ~ )
 - [ ] Generalized Linear Mixed Models (일반화 선형 혼합 모형)
 - [ ] Categorical Data Analysis  (범주형 자료 분석)
-- [ ] Spatio Data Analysis       (공간 자료 분석)
+- [ ] Spatio Temporal Data Analysis       (시공간 자료 분석) (2020.3 ~ )
 - [ ] Survival Data Analysis     (생존 자료 분석)
 - [ ] Time Series Data Analysis  (시계열 자료 분석)
 - [ ] Survey Sampling            (표본 조사론)

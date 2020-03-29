@@ -7,3 +7,4 @@
 공부 내용은 연세대학교 박재우 교수님의 시공간 데이터 분석 강의의 강의노트를 참고하여 작성하였음을 밝힙니다.
 
 - [x] 1. Overview and Introduction (3.19 완료)
+- [X] 2. Likelihood based Inference for Geostatistics (3.30 완료)

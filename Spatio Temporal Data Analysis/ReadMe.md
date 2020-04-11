@@ -8,3 +8,5 @@
 
 - [x] 1. Overview and Introduction (3.19 완료)
 - [X] 2. Likelihood based Inference for Geostatistics (3.30 완료)
+- [X] 3. Review of Bayesian Statistics (4.4 완료)
+- [X] 4. Hierarchical Spatial Models with Bayes Approaches (4.11 완료)

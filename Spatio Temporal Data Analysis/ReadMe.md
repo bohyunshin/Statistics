@@ -10,3 +10,5 @@
 - [X] 2. Likelihood based Inference for Geostatistics (3.30 완료)
 - [X] 3. Review of Bayesian Statistics (4.4 완료)
 - [X] 4. Hierarchical Spatial Models with Bayes Approaches (4.11 완료)
+- [x] 5. Bayes Apprach for SGLMMs (4.18 완료)
+- [x] 6. ML Inference for SGLMMs (4.24 완료)

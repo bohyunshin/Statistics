@@ -12,3 +12,4 @@
 - [X] 4. Hierarchical Spatial Models with Bayes Approaches (4.11 완료)
 - [x] 5. Bayes Apprach for SGLMMs (4.18 완료)
 - [x] 6. ML Inference for SGLMMs (4.24 완료)
+- [X] 7. Introduction to Areal:Lattice Data (5.1 완료)

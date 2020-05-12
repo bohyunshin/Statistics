@@ -28,4 +28,5 @@
 - [ ] Time Series Data Analysis  (시계열 자료 분석)
 - [ ] Survey Sampling            (표본 조사론)
 - [ ] High Dimensional Data      (고차원 자료에 대한 접근) (2020.4 ~ )
+
 세부 목차는 각 챕터에 적어두었습니다.

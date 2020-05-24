@@ -14,4 +14,4 @@
 - [x] 6. ML Inference for SGLMMs (4.24 완료)
 - [X] 7. Introduction to Areal:Lattice Data (5.1 완료)
 - [X] 8. Modeling Areal_Lattice Data (5.17 완료)
-- [X] 9. Modeling Spatial Point Patterns (5.17 완료)
+- [X] 9. Modeling Spatial Point Patterns (5.24 완료)

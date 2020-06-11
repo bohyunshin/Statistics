@@ -30,7 +30,7 @@
 
 ## Spatial Temporal Statistics: Large data
 
-* Spatio-Temporal Statistics with R (Basis Expansion).
+* Spatio-Temporal Statistics with R (Basis Expansion)
 * Fixed Rank Filtering for Spatio Temporal Data, Cressie et al. (Basis Expansion)
   * Implementation: FRK package
 
